@@ -1,0 +1,7 @@
+A:Alpine,5
+M:Mountain,2
+F:Forest,2
+O:Ocean,20
+J:Jungle,3
+D:Desert,1
+P:Prairie,1

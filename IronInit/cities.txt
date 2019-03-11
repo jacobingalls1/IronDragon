@@ -1,0 +1,3 @@
+BIG:BIG;10,10;Tools,Fruit
+MED:MED;3,4;Fruit
+SML:SML;16,5;Tools

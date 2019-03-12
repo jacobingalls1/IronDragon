@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bad4d3be-dd3e-4176-b46b-5bf5fdb3b5a1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IronInit/Terrain/Desert.png" afterPath="$PROJECT_DIR$/IronInit/Terrain/Desert.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IronInit/Terrain/Forest.png" afterPath="$PROJECT_DIR$/IronInit/Terrain/Forest.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
